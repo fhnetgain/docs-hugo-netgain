@@ -4,13 +4,19 @@ geekdocHidden: true
 slug: addwidget
 ---
 
-Click on the \<Add widget > button at the center of the screen to add widgets.
+Click the **Add widget** button to populate your dashboard with graphs,
+tables or other panels.
 
+## Steps
+1. Choose **Add widget** in the empty dashboard.
+2. Select the desired widget category.
+3. Configure the widget options, then click **Add**.
+4. Repeat for additional widgets.
 
 ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/addwidgets.PNG)
 
 
-Add the widgets appropriate to the view and information you would like to have for the dashboard you are creating. Here is a summary of the widgets currently available by category:
+Add widgets appropriate to the view you would like to have for the dashboard you are creating. Below is a summary of the widgets currently available by category:
 
 * Logs:
 

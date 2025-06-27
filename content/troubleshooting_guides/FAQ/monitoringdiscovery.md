@@ -3,6 +3,7 @@ title: Monitoring & Discovery
 geekdocHidden : True
 ---
 
+
 ## Overview
 
 Typical issues during monitoring and discovery include unreachable devices, incorrect or outdated SNMP/Agent credentials, and blocked network ports. These problems prevent the NetGain server from collecting data or identifying devices on the network.

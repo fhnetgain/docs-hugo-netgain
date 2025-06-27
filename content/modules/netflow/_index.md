@@ -2,7 +2,9 @@
 title: NetFlow
 weight: 3
 ---
-NetFlow are used to collect and monitor network traffic data.They monitor IP addresses,data volumes,time,ports and protocols.
+NetFlow collects and monitors network traffic data such as IP addresses,
+volumes, time, ports and protocols. Use it to analyze traffic patterns and
+troubleshoot bandwidth issues.
 
 * <a href="/modules/netflow/usingnta">Using Network Traffic Analytics</a>
 * <a href="/modules/netflow/reports">Reports</a>
