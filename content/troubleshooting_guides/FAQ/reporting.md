@@ -3,6 +3,7 @@ title: Report
 geekdocHidden : True
 ---
 
+
 Common questions about generating and managing reports.
 
 ### How do I create a new report?
@@ -35,3 +36,4 @@ flowchart TD
 ```
 
 </details>
+=======
