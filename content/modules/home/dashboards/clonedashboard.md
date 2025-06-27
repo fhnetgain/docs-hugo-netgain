@@ -4,20 +4,15 @@ geekdocHidden: true
 slug: clonedashboard
 ---
 
-Click on the <img src="/modules/home/dashboards/Images/{{% imagehome %}}/cloneicon2.png" width="60px"> button at the corner to clone the current dashboard.
+Clone a dashboard when you want a similar layout with different data sources.
 
+## Steps
+1. Open the dashboard to duplicate.
+2. Click the clone icon ![Clone](/modules/home/dashboards/Images/{{% imagehome %}}/cloneicon2.png){ width="60px" }.
+3. Provide a name for the clone and click the confirm icon.
 
 ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/clonedashboard1.png)
 
-&nbsp;
-
- Give a name for the cloned dashboard
-
-
 ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/clonename.PNG)
-
-&nbsp;
-
-Click on <img src="/modules/home/dashboards/Images/{{% imagehome %}}/cloneicon1.png" width="60px"> to clone the dashboard
 
 ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/clonedashboard2.png)

@@ -4,4 +4,10 @@ geekdocHidden: true
 slug: alertnotifications
 ---
 
-Notifications will be sent to relevant persons in the form of e-mails, SMS, 3rd party app messaging, sound or pop-up windows when a fault or service level violation occurs in the managed environment.
+Alert notifications inform users when faults or service level violations occur.
+
+## Setting up notifications
+1. Open **Alerts > Alert Notifications**.
+2. Choose the notification channels (e-mail, SMS, messaging app, pop-up).
+3. Specify the recipients and escalation rules.
+4. Save the configuration to activate notifications.
