@@ -4,18 +4,13 @@ geekdocHidden: true
 slug: editwidget
 ---
 
-Click on the ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/pencilicon.png) button at the center to edit the widget.
+Use the edit option to change widget queries or presentation.
 
-
+## Steps
+1. Hover over the widget and click the pencil icon.
+2. Adjust the widget settings as required.
+3. Click the check mark icon to save your changes.
 
 ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/ping.png)
-
-
-&nbsp;
-
-
-Click on ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/tickicon.png) to save changes
-
-
 
 ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/ping2.png)

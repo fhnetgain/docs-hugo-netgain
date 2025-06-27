@@ -5,17 +5,26 @@ slug: adddashboard
 ---
 
 
-You can add a new dashboard to the dashboard page and customize it to your requirements. 
+You can add a new dashboard and customize it to display the information that
+matters most to you.
 
-Click on <+ Add dashboard> on the right hand side of the top menu
-
+## Steps
+1. From the dashboard page click **Add Dashboard** on the top menu.
+2. Enter a **Name** and optional **Group** for the dashboard.
+3. Click **Create** to open the empty dashboard.
+4. Proceed to [add widgets](/modules/home/dashboards/addwidget) to populate the
+   dashboard.
 
 ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/dashboard.png)
 
-
-
-Provide a name and group name for the new dashboard, and click on \<Create>:
-
-
-
 ![Screenshot](/modules/home/dashboards/Images/{{% imagehome %}}/dashboard2.PNG)
+
+```mermaid
+flowchart LR
+    A(Add Dashboard) --> B(Add Widgets)
+    B --> C(Save Dashboard)
+    C --> D{Manage}
+    D --> E[Edit]
+    D --> F[Clone]
+    D --> G[Delete]
+```
